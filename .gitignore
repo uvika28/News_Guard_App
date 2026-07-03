@@ -1,8 +1,5 @@
 tfenv/
 .ipynb_checkpoints/
 
-Fake.csv
-True.csv
-
 __pycache__/
 *.pyc
