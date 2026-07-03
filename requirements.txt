@@ -1,0 +1,10 @@
+streamlit
+pandas
+tensorflow
+matplotlib
+wordcloud
+newspaper3k
+lxml_html_clean
+pdfplumber
+numpy
+scikit-learn
