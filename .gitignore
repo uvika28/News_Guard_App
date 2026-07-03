@@ -1,0 +1,14 @@
+tfenv/
+.ipynb_checkpoints/
+
+Fake.csv
+True.csv
+
+models/*.keras
+models/*.h5
+models/*.pkl
+
+__pycache__/
+*.pyc
+
+New Text Document.txt
