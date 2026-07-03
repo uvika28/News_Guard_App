@@ -8,3 +8,4 @@ lxml_html_clean
 pdfplumber
 numpy
 scikit-learn
+gdown
